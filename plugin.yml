@@ -1,0 +1,7 @@
+name: Customies-Exemple
+version: 1.0.0
+api: 4.0.0
+main: CustomiesExemple\GhostSushi\Main
+author: GhostSushi
+depend: Customies
+# discord.gg/easyteam
